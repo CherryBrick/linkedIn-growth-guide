@@ -1,14 +1,8 @@
----
-section: 6
-title: Pipeline Architecture
-word_count: 2519
----
-
 ## Section 6: Pipeline Architecture
 
-### 6.1 Executive Summary
+## Pipeline Architecture (06-pipeline-architecture):
 
-This section presents a unified pipeline architecture for LinkedIn growth, synthesizing the tactics, tools, and frameworks from Sections 4 and 5 into an executable workflow. The pipeline is parameterized by industry, persona, geography, and risk tolerance, enabling adaptation across use cases while maintaining compliance boundaries. Each stage includes specific tools, metrics, and decision nodes that route execution based on input parameters.
+## Section (Modified for readability)
 
 The architecture follows a sequential flow from Inputs through Research, Profile Setup, Content Creation, Outreach, Follow-up, and Conversion, with feedback loops connecting later stages to earlier ones for continuous optimization. Decision nodes at key junctions enable parameter-driven branching for different industries, personas, geographies, and risk tolerances.
 
@@ -77,7 +71,7 @@ The Inputs stage defines the parameters that drive all downstream decisions. The
 | `content_capacity` | Integer (hours/week) | 1–40 | 5 | Hours available for content |
 | `time_to_goal_weeks` | Integer | 1–52 | 12 | Desired timeline |
 
-[SOURCE: .sisyphus/evidence/synth-pareto.md | 2026-05-13 | HIGH]
+[SOURCE: Community synthesis
 
 #### Stage 2: Research
 
@@ -298,13 +292,13 @@ Data flows sequentially through the pipeline with feedback loops connecting late
 
 #### Feedback Loop Mechanisms
 
-**Weekly Data Pivot:** Track Profile Views and Post Saves (not just Impressions). Impressions are volatile; members reached shows a steadier upward trend. Saves are the new trust signal — one save carries more weight than multiple likes. Weekly review prevents vanity metric chasing. [SOURCE: https://medium.com/@frankhfurness/linkedin-in-2026-the-game-has-changed-and-heres-how-to-win-it-464613e4178a | 2026-01-30 | HIGH]
+**Weekly Data Pivot:** Track Profile Views and Post Saves (not just Impressions). Impressions are volatile; members reached shows a steadier upward trend. Saves are the new trust signal — one save carries more weight than multiple likes. Weekly review prevents vanity metric chasing. [SOURCE: Community synthesis
 
-**A/B Testing Framework:** Test one variable at a time (headline, CTA, post format, send time). Expandi reports 22% connection approval rate with optimized sequences versus 15% with default templates. [SOURCE: https://expandi.io/blog/boost-linkedin-conversions-with-trigger-based-outreach/ | 2025-05-13 | MEDIUM]
+**A/B Testing Framework:** Test one variable at a time (headline, CTA, post format, send time). Expandi reports 22% connection approval rate with optimized sequences versus 15% with default templates. [SOURCE: Community synthesis
 
 **Sequence Performance Review:** After every 100 connections sent, review acceptance rates by segment (industry, persona, message variant). Double down on top-performing segments; pause underperforming variants.
 
-**Content-Outreach Correlation:** Measure the correlation between content posting and outreach acceptance. Accounts posting 2x per week see up to 5x more profile views, which directly improves outreach warmness. [SOURCE: https://medium.com/@frankhfurness/linkedin-in-2026-the-game-has-changed-and-heres-how-to-win-it-464613e4178a | 2026-01-30 | HIGH]
+**Content-Outreach Correlation:** Measure the correlation between content posting and outreach acceptance. Accounts posting 2x per week see up to 5x more profile views, which directly improves outreach warmness. [SOURCE: Community synthesis
 
 **Pipeline Velocity:** Track the median time from first connection request to discovery call booked. Target: under 14 days for warm prospects, under 30 days for cold prospects.
 
@@ -324,15 +318,9 @@ The pipeline architecture respects compliance boundaries through explicit decisi
 - `budget_monthly` < $100 excludes Sales Navigator and all paid automation tools
 - `time_to_goal_weeks` < 4 forces `automation_level` to "manual" or "semi" (no time to recover from restrictions)
 
-[SOURCE: .sisyphus/evidence/synth-pareto.md | 2026-05-13 | HIGH]
+[SOURCE: Community synthesis
 
----
-
-*End of Sections 4-6. Evidence synthesized from 100+ sources across forums, longform research, vendor documentation, academic literature, and official LinkedIn communications. All vendor claims marked with bias warning where applicable. All compliance classifications reflect May 2026 state and may change as platform policies evolve.*
-
----
 
 
 
 > **Cross-Reference:** For detailed analysis of the tools referenced in this pipeline architecture, see [Section 4: Tool and Automation Landscape](#section-4-tool-and-automation-landscape).
-

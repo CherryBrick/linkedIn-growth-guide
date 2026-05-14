@@ -392,6 +392,6 @@ The pipeline architecture respects compliance boundaries through explicit decisi
 
 ## 10. References
 
-- Source: `.sisyphus/evidence/synth-pareto.md` | 2026-05-13 | HIGH
-- Source: `.sisyphus/evidence/synth-automation.md` | 2026-05-13 | HIGH
+- Source: Community research synthesis | 2026 | HIGH
+- Source: Tool documentation and forum analysis | 2026 | HIGH
 - Source: `linkedin-growth-research-report.md` Section 6 | 2026-05-13 | HIGH

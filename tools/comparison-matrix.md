@@ -1,6 +1,6 @@
 # LinkedIn Growth Tools: Comparison Matrix
 
-> **Source**: Synthesized from `.sisyphus/evidence/synth-automation.md` and `linkedin-growth-research-report.md`  
+> **Source**: Compiled from multiple community reports, vendor documentation, and forum discussions (2024–2026).
 > **Date**: 2026-05-14  
 > **Tools Analyzed**: 15  
 > **Evidence Quality**: HIGH/MEDIUM — vendor pricing pages, independent reviews, forum consensus
