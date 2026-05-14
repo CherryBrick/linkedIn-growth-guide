@@ -77,7 +77,41 @@ The docs directory contains the full research report, split into focused section
 
 ---
 
-## The Story Behind This
+## Key Findings at a Glance
+
+If you only have five minutes, here is what the research says:
+
+**Profile optimization is the highest-leverage zero-risk action.** A complete profile with a professional photo, keyword-rich headline, and detailed experience section increases search visibility by up to 40x and raises connection acceptance rates from ~15% to ~45%. This costs nothing and takes a single afternoon.
+
+**The connection limit is not a hard number; it is a behavior signal.** LinkedIn uses a rolling-window algorithm that tracks request velocity, acceptance rate, and recipient engagement. Sending 20 requests per day with personalized notes and an 80%+ acceptance rate is safer than sending 100 generic requests that get ignored. The research documents exact thresholds and recovery protocols.
+
+**Content reach has dropped 30–60% since 2024, but quality content still wins.** The algorithm now prioritizes dwell time, saves, and threaded comments over simple likes. PDF carousels (8–10 slides), short video (<90s), and contrarian educational posts outperform generic thought leadership. Posting 2–5 times per week on Tuesday–Thursday mornings is the current sweet spot.
+
+**Automation isdetectable and risky, but not uniformly so.** Cloud-based tools with dedicated IPs and human-like delay patterns carry lower detection risk than browser extensions. However, all tools that automate connection requests or messages violate LinkedIn's Terms of Service. The research catalogs 15 tools with detection risk ratings, pricing, and integration options so you can make an informed risk-reward decision.
+
+**Conversion happens in the follow-up, not the connection request.** A three-message sequence with specific timing (connect → value follow-up at day 3 → soft CTA at day 7) achieves 15–25% reply rates, compared to 1–3% for cold email. Warm outreach (engage with content before connecting) increases response rates by up to 10x.
+
+**The Vital Few: five tactics that deliver 80% of results.**
+1. Complete and optimize your profile (SAFE, 1 day, high impact)
+2. Post high-quality content 2–3x per week (SAFE, ongoing, high impact)
+3. Send 15–20 targeted connection requests daily with personalized notes (MODERATE, ongoing, high impact)
+4. Engage meaningfully on others' content before connecting (SAFE, 30 min/day, medium-high impact)
+5. Build a DM follow-up sequence with value-first messaging (SAFE, 1 day setup, high impact)
+
+Everything else is optimization. Master these five before experimenting with higher-risk tactics.
+
+---
+
+## Who This Is For
+
+| Role | What You'll Find |
+|------|-----------------|
+| **Founders & CEOs** | Building a personal brand to attract investors, partners, and customers. Focus on profile optimization, content strategy, and warm outreach. |
+| **Sales Professionals** | Filling a pipeline with qualified leads. Focus on conversion mechanics, DM sequences, and tool selection. |
+| **Job Seekers** | Expanding your network to access hidden opportunities. Focus on profile discovery, alumni connections, and recruiter engagement. |
+| **Growth Leads** | Scaling outreach for a team or company. Focus on pipeline architecture, parameterization schema, and team coordination. |
+| **Automation Engineers** | Building or evaluating LinkedIn tools. Focus on the tool comparison matrix, detection mechanics, and integration patterns. |
+| ** Consultants & Freelancers** | Attracting inbound clients through thought leadership. Focus on content strategy, SSI optimization, and profile-to-DM conversion. |
 
 I'm a Senior Data Engineer who spent two years trying to grow a LinkedIn presence the wrong way. I bought automation tools, blasted connection requests, and watched my account get restricted twice. The second restriction lasted three weeks. That downtime cost me a pipeline contract I had been negotiating for months. I realized I had been treating LinkedIn like a numbers game when it is actually a reputation system with hidden rules.
 
