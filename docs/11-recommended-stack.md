@@ -10,7 +10,7 @@ Before selecting tools, users should honestly assess their risk tolerance. Linke
 |---|---|---|---|
 | **Conservative (SAFE)** | Zero tools that violate LinkedIn ToS. All growth is manual or through officially sanctioned features. | Primary income depends on LinkedIn; low tolerance for account disruption; operating in regulated industry (finance, healthcare, legal). | Slowest growth but highest account safety and long-term sustainability. |
 | **Moderate (SAFE + MODERATE)** | Manual core activities plus gray-area tools that operate at platform boundaries (API-based enrichment, scheduling, analytics). No automated connection requests or messaging. | Willing to accept small risk for efficiency gains; has time to monitor tool compliance; operates in standard B2B. | 2-3x faster than conservative with manageable risk. Requires active monitoring. |
-| **Aggressive (ALL TACTICS)** | Full automation including connection requests, messaging sequences, and scraping. | Account is replaceable or secondary; high risk tolerance; willing to rotate accounts if restricted; operating in high-volume sales role. | Fastest growth but 23% ban rate within 90 days [SOURCE: Community synthesis
+| **Aggressive (ALL TACTICS)** | Full automation including connection requests, messaging sequences, and scraping. | Account is replaceable or secondary; high risk tolerance; willing to rotate accounts if restricted; operating in high-volume sales role. | Fastest growth but 23% ban rate within 90 days [SOURCE: https://medium.com/@bandarupavan2006/linkedin-automation-in-2025-the-safety-first-revolution-thats-rewriting-the-rules-b016e58592eb | 2025-11-19 | HIGH]. Requires dedicated IP, warmup, and contingency planning. |
 
 
 ### 11.3 Phase-Based Implementation Roadmap
@@ -77,7 +77,7 @@ Not all strategies work for all users. The evidence suggests several scenarios w
 
 **Warning Sign 1: Account Restriction or Warning**
 
-If LinkedIn issues any formal warning or temporary restriction, immediately halt all automated activity. The 23% ban rate data suggests that a first warning is a strong predictor of eventual restriction if behavior continues [SOURCE: Community synthesis
+If LinkedIn issues any formal warning or temporary restriction, immediately halt all automated activity. The 23% ban rate data suggests that a first warning is a strong predictor of eventual restriction if behavior continues [SOURCE: https://medium.com/@bandarupavan2006/linkedin-automation-in-2025-the-safety-first-revolution-thats-rewriting-the-rules-b016e58592eb | 2025-11-19 | HIGH]. Conservative users should never receive warnings; moderate users may receive one if they edge into gray-area behavior. Pivot to fully manual operations for at least 30 days.
 
 **Warning Sign 2: Zero Inbound After 60 Days of Consistent Execution**
 
@@ -114,15 +114,15 @@ The "360 Brew" update of March 2026 rendered some 2024 best practices obsolete (
 
 ### 11.8 Final Recommendations Summary
 
-1. **Start Conservative, Expand Deliberately.** Begin with the Conservative stack for 30 days. Master fundamentals (profile, content, engagement) before adding tools or risk. The evidence shows that 70% of growth comes from these basics alone [SOURCE: Community synthesis
+1. **Start Conservative, Expand Deliberately.** Begin with the Conservative stack for 30 days. Master fundamentals (profile, content, engagement) before adding tools or risk. The evidence shows that 70% of growth comes from these basics alone [SOURCE: Community synthesis].
 
-2. **Invest in Profile First.** The headline, About, and Featured sections are the highest-ROI activities available. A perfect profile with zero posts outperforms a mediocre profile with daily posts [SOURCE: Community synthesis
+2. **Invest in Profile First.** The headline, About, and Featured sections are the highest-ROI activities available. A perfect profile with zero posts outperforms a mediocre profile with daily posts [SOURCE: https://medium.com/fonzi-ai/how-to-optimize-your-linkedin-profile-so-recruiters-actually-find-you-b456ce8896c1 | 2026-04-08 | HIGH].
 
-3. **Prioritize Content Quality Over Quantity.** The "360 Brew" update rewards expertise and punishes generic content. One excellent carousel per week beats five mediocre text posts [SOURCE: Community synthesis
+3. **Prioritize Content Quality Over Quantity.** The "360 Brew" update rewards expertise and punishes generic content. One excellent carousel per week beats five mediocre text posts [SOURCE: https://seanwinter.substack.com/p/linkedin-just-changed-the-rules-heres | 2026-03-27 | HIGH].
 
 4. **Measure Leading Indicators Weekly.** Do not wait for follower count to validate strategy. Track profile views, engagement rate, and connection acceptance rate weekly. These predict future growth.
 
-5. **Have a Contingency Plan.** If using any gray-area or automated tools, maintain a backup plan: exported connection list, backup account, and alternative lead channels. The 23% ban rate is real and non-negotiable [SOURCE: Community synthesis
+5. **Have a Contingency Plan.** If using any gray-area or automated tools, maintain a backup plan: exported connection list, backup account, and alternative lead channels. The 23% ban rate is real and non-negotiable [SOURCE: https://medium.com/@bandarupavan2006/linkedin-automation-in-2025-the-safety-first-revolution-thats-rewriting-the-rules-b016e58592eb | 2025-11-19 | HIGH].
 
 6. **Run Your Own A/B Tests.** The evidence base is aggregate and may not apply to your niche. Use the test catalog in Section 10.4 to validate every major assumption with your own audience.
 

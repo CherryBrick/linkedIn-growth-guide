@@ -71,7 +71,7 @@ The Inputs stage defines the parameters that drive all downstream decisions. The
 | `content_capacity` | Integer (hours/week) | 1–40 | 5 | Hours available for content |
 | `time_to_goal_weeks` | Integer | 1–52 | 12 | Desired timeline |
 
-[SOURCE: Community synthesis
+[SOURCE: Community synthesis]
 
 #### Stage 2: Research
 
@@ -292,13 +292,13 @@ Data flows sequentially through the pipeline with feedback loops connecting late
 
 #### Feedback Loop Mechanisms
 
-**Weekly Data Pivot:** Track Profile Views and Post Saves (not just Impressions). Impressions are volatile; members reached shows a steadier upward trend. Saves are the new trust signal — one save carries more weight than multiple likes. Weekly review prevents vanity metric chasing. [SOURCE: Community synthesis
+**Weekly Data Pivot:** Track Profile Views and Post Saves (not just Impressions). Impressions are volatile; members reached shows a steadier upward trend. Saves are the new trust signal — one save carries more weight than multiple likes. Weekly review prevents vanity metric chasing. [SOURCE: https://medium.com/@frankhfurness/linkedin-in-2026-the-game-has-changed-and-heres-how-to-win-it-464613e4178a | 2026-01-30 | HIGH]
 
-**A/B Testing Framework:** Test one variable at a time (headline, CTA, post format, send time). Expandi reports 22% connection approval rate with optimized sequences versus 15% with default templates. [SOURCE: Community synthesis
+**A/B Testing Framework:** Test one variable at a time (headline, CTA, post format, send time). Expandi reports 22% connection approval rate with optimized sequences versus 15% with default templates. [SOURCE: https://expandi.io/blog/boost-linkedin-conversions-with-trigger-based-outreach/ | 2025-05-13 | MEDIUM]
 
 **Sequence Performance Review:** After every 100 connections sent, review acceptance rates by segment (industry, persona, message variant). Double down on top-performing segments; pause underperforming variants.
 
-**Content-Outreach Correlation:** Measure the correlation between content posting and outreach acceptance. Accounts posting 2x per week see up to 5x more profile views, which directly improves outreach warmness. [SOURCE: Community synthesis
+**Content-Outreach Correlation:** Measure the correlation between content posting and outreach acceptance. Accounts posting 2x per week see up to 5x more profile views, which directly improves outreach warmness. [SOURCE: https://medium.com/@frankhfurness/linkedin-in-2026-the-game-has-changed-and-heres-how-to-win-it-464613e4178a | 2026-01-30 | HIGH]
 
 **Pipeline Velocity:** Track the median time from first connection request to discovery call booked. Target: under 14 days for warm prospects, under 30 days for cold prospects.
 
@@ -318,7 +318,7 @@ The pipeline architecture respects compliance boundaries through explicit decisi
 - `budget_monthly` < $100 excludes Sales Navigator and all paid automation tools
 - `time_to_goal_weeks` < 4 forces `automation_level` to "manual" or "semi" (no time to recover from restrictions)
 
-[SOURCE: Community synthesis
+[SOURCE: Community synthesis]
 
 
 

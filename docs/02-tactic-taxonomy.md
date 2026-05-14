@@ -4,7 +4,7 @@
 
 #### Category 1: Profile Optimization
 
-Profile optimization is the foundation of all LinkedIn growth. The profile is no longer a static CV; it is an active conversion funnel and a distribution gatekeeper. The March 2026 "360 Brew" algorithm update means "the algorithm now reads your profile before deciding how far content travels" [SOURCE: Community synthesis
+Profile optimization is the foundation of all LinkedIn growth. The profile is no longer a static CV; it is an active conversion funnel and a distribution gatekeeper. The March 2026 "360 Brew" algorithm update means "the algorithm now reads your profile before deciding how far content travels" [SOURCE: https://seanwinter.substack.com/p/linkedin-just-changed-the-rules-heres | 2026-03-27 | HIGH].
 
 | Tactic | Description | Effort | Impact | Risk |
 |--------|-------------|--------|--------|------|
@@ -15,9 +15,9 @@ Profile optimization is the foundation of all LinkedIn growth. The profile is no
 | Endorsement and Recommendation Exchange | Endorsements factor into SSI scoring. Recommendations provide social proof. Best as relationship-building, not primary growth tactic. | LOW | LOW | SAFE |
 | AI-Optimized Content for LLM Discovery | Content should start with direct answers in first 50-70 words; 44.2% of LLM citations come from first 30% of text. Emerging tactic. | MEDIUM | MEDIUM | SAFE |
 
-The headline is the single most heavily weighted field in LinkedIn search and feed distribution. According to Sammi Cox's analysis of recruiter search behavior, the headline is "one of the most heavily weighted fields in LinkedIn search" and should signal both what the user does and what kind of work they seek [SOURCE: Community synthesis
+The headline is the single most heavily weighted field in LinkedIn search and feed distribution. According to Sammi Cox's analysis of recruiter search behavior, the headline is "one of the most heavily weighted fields in LinkedIn search" and should signal both what the user does and what kind of work they seek [SOURCE: https://medium.com/fonzi-ai/how-to-optimize-your-linkedin-profile-so-recruiters-actually-find-you-b456ce8896c1 | 2026-04-08 | HIGH]. Melanie Goodman's research found that profiles with precisely defined About sections are "up to 40x more discoverable in opportunity searches" [SOURCE: https://melaniegoodmanlinkedinconsultant.substack.com/p/no-crm-no-ads-no-sales-team-the-linkedin | 2025-09-08 | HIGH].
 
-The 3-second impression framework (photo, banner, headline) is consistently cited as the conversion threshold before any algorithmic weight matters. If the profile does not pass this visual scan, deeper algorithmic signals are irrelevant [SOURCE: Community synthesis
+The 3-second impression framework (photo, banner, headline) is consistently cited as the conversion threshold before any algorithmic weight matters. If the profile does not pass this visual scan, deeper algorithmic signals are irrelevant [SOURCE: https://melaniegoodmanlinkedinconsultant.substack.com/p/stop-tweaking-start-converting-a | 2026-01-21 | HIGH].
 
 #### Category 2: Connection Growth
 
@@ -55,9 +55,9 @@ Connection limits vary by account type and SSI score. The following table summar
 | Recruiter / Recruiter Lite | 150-200 | 200 | 30-50 |
 | High SSI Score (70+) | 100-200 | 250+ | 40+ |
 
-[SOURCE: Community synthesis
+[SOURCE: Community synthesis]
 
-The limit resets on a rolling 7-day window, NOT a fixed calendar day. If you send your first invite on Tuesday at 2 PM, your capacity for that specific invite returns the following Tuesday at 2 PM [SOURCE: Community synthesis
+The limit resets on a rolling 7-day window, NOT a fixed calendar day. If you send your first invite on Tuesday at 2 PM, your capacity for that specific invite returns the following Tuesday at 2 PM [SOURCE: https://www.linkedin.com/help/linkedin/answer/a550555 | 2024-2026 | HIGH]. LinkedIn tracks cumulative weekly behavior more aggressively than daily spikes. Sending 100 requests in one day is a red flag even if within weekly limits [SOURCE: https://outboundsystem.com/blog/linkedin-connection-request-limit | 2024 | HIGH].
 
 #### Category 3: Content Strategy
 
@@ -82,13 +82,13 @@ Content strategy is the primary engine of organic growth. The 2026 algorithm pri
 | Engagement Pods / Artificial Engagement Rings | LinkedIn explicitly takes action. Can identify unnatural patterns. Zero sustainable benefit. | LOW | LOW | ToS-violating |
 | Automated Commenting Bots | LinkedIn specifically targeting in 2025-2026. AI-generated comments easily detected and penalized. | LOW | LOW | ToS-violating |
 
-PDF carousels and short-form video emerge as the highest-performing formats in 2026, driven by algorithmic preference for dwell time and completion rates. Nathanial Bibby's analysis of 900,000+ posts found carousels work "primarily because they maximize dwell time" [SOURCE: Community synthesis
+PDF carousels and short-form video emerge as the highest-performing formats in 2026, driven by algorithmic preference for dwell time and completion rates. Nathanial Bibby's analysis of 900,000+ posts found carousels work "primarily because they maximize dwell time" [SOURCE: https://medium.com/p/linkedin-algorithm-2026-1f470ead821b | 2026-02-22 | HIGH]. Tai Freligh notes "PDF carousels and short-form video (under 90s) have the highest conversion rates" [SOURCE: https://taifreligh.medium.com/unlocking-linkedin-the-6-action-growth-blueprint-for-2026-fe8ae129d0a2 | 2026-02-05 | HIGH].
 
-External links are heavily penalized. Multiple sources confirm external links reduce reach by roughly 60% compared to identical posts without links [SOURCE: Community synthesis
+External links are heavily penalized. Multiple sources confirm external links reduce reach by roughly 60% compared to identical posts without links [SOURCE: https://medium.com/@frankhfurness/linkedin-in-2026-the-game-has-changed-and-heres-how-to-win-it-464613e4178a | 2026-01-30 | HIGH]. Isenberg's hack: wait 4 hours after posting, then edit to add the link if the post gets 150+ likes, LinkedIn won't suppress it retroactively [SOURCE: https://www.youtube.com/watch?v=yatoLm3J8Hk | 2024-12 | HIGH].
 
-The optimal posting frequency is 2-5 posts per week, with strategic commenting filling gaps between posts. Frank Furness: "Members who post twice per week see up to 5x more profile views on average" [SOURCE: Community synthesis
+The optimal posting frequency is 2-5 posts per week, with strategic commenting filling gaps between posts. Frank Furness: "Members who post twice per week see up to 5x more profile views on average" [SOURCE: https://medium.com/@frankhfurness/linkedin-in-2026-the-game-has-changed-and-heres-how-to-win-it-464613e4178a | 2026-01-30 | HIGH]. Daily posting is NOT required. Emmka grew her following by 80% YoY "without posting daily," emphasizing that "commenting, networking, and adding value daily matters more than posting daily" [SOURCE: https://medium.com/@emmka.nik/how-i-grew-my-linkedin-following-by-80-yoy-without-posting-daily-f4adaa59cdf9 | 2026-01-31 | HIGH].
 
-Best days are Tuesday through Thursday mornings, when C-suite readership is highest (+30% engagement) [SOURCE: Community synthesis
+Best days are Tuesday through Thursday mornings, when C-suite readership is highest (+30% engagement) [SOURCE: https://melaniegoodmanlinkedinconsultant.substack.com/p/no-crm-no-ads-no-sales-team-the-linkedin | 2025-09-08 | HIGH]. The first 60 minutes after posting are critical; the algorithm evaluates posts in the first hour, and genuine engagement triggers broader distribution [SOURCE: https://medium.com/@frankhfurness/linkedin-in-2026-the-game-has-changed-and-heres-how-to-win-it-464613e4178a | 2026-01-30 | HIGH]. Reply to every comment within the first 60 minutes to fuel algorithmic distribution [SOURCE: https://platformshift.substack.com/p/the-linkedin-playbook | 2026-01-16 | HIGH].
 
 #### Category 4: Conversion and Messaging
 
@@ -105,11 +105,11 @@ Conversion tactics bridge content and connection growth into business outcomes: 
 | Mass DM Blasts / Spray-and-Pray Outreach | "Connect and pitch" actively damages brand. Triggers spam filters. <30% acceptance triggers Volume Tax. | LOW | LOW | HIGH |
 | Automated Commenting Bots | LinkedIn targeting in 2025-2026. AI comments easily detected and penalized. | LOW | LOW | ToS-violating |
 
-LinkedIn outreach gets 3x more replies than cold email. Zaidan Ahmad reports "cold email averages 8-12% open rates and 1-3% reply rates" vs. "LinkedIn: 40-60% open rates on connection requests, 15-25% reply rates on well-timed messages" [SOURCE: Community synthesis
+LinkedIn outreach gets 3x more replies than cold email. Zaidan Ahmad reports "cold email averages 8-12% open rates and 1-3% reply rates" vs. "LinkedIn: 40-60% open rates on connection requests, 15-25% reply rates on well-timed messages" [SOURCE: https://medium.com/@zaidaanahmad234/why-linkedin-outreach-gets-3-more-replies-than-cold-email-and-how-to-actually-do-it-right-f4f710525e57 | 2025-11-08 | HIGH]. Industry benchmarks confirm: "LinkedIn InMail gets 18-25% response rates vs. cold email at 3-5%" [SOURCE: https://salesso.com/blog/linkedin-sales-statistics/ | 2025 | HIGH].
 
-The follow-up message structure should follow a proven sequence: First message (max 3 sentences, acknowledge randomness, explain who you help, ask if you can share ideas) [SOURCE: Community synthesis
+The follow-up message structure should follow a proven sequence: First message (max 3 sentences, acknowledge randomness, explain who you help, ask if you can share ideas) [SOURCE: Community synthesis]. Follow-up sequence after connection: Message 1 (value), Message 2 (address challenge + soft CTA), Message 3 (send resource/case study) [SOURCE: https://medium.com/@inboundagencyltd/linkedin-marketing-in-2026 | 2026 | HIGH]. Multi-touch sequence: Day 1 connection request, Day 4 thank-you, Day 8 share content, Day 15 InMail, Day 30 final follow-up [SOURCE: https://medium.com/@shahzad_3157/linkedin-sales-navigator | 2026 | HIGH].
 
-Lead magnets should feel like "stolen secrets, not boring brochures" [SOURCE: Community synthesis
+Lead magnets should feel like "stolen secrets, not boring brochures" [SOURCE: https://melaniegoodmanlinkedinconsultant.substack.com/p/linkedin-creators-visibility-strategies | 2026-01-14 | HIGH]. Greg Isenberg: "create valuable free content, don't sell directly" [SOURCE: https://www.youtube.com/watch?v=yatoLm3J8Hk | 2024-12 | HIGH]. LinkedIn newsletters convert 2-3% of subscribers into qualified leads over time [SOURCE: https://medium.com/@teamlightsandsmiles/linkedin-lead-generation-in-2026-a-reality-check-on-what-actually-works-and-whats-just-noise-6805a267dcb4 | 2026-01-13 | HIGH].
 
 #### Category 5: Automation and Tools
 
@@ -129,7 +129,7 @@ Automation and tools span a wide risk spectrum, from fully SAFE manual workflows
 | Engagement Pods / Artificial Engagement Rings | LinkedIn explicitly takes action. Can identify unnatural patterns. Zero sustainable benefit. | LOW | LOW | ToS-violating |
 | Automated Commenting Bots | LinkedIn specifically targeting in 2025-2026. Easily detected and penalized. | LOW | LOW | ToS-violating |
 
-The evidence overwhelmingly favors manual execution for all growth-critical activities. As one Hacker News commenter noted, "People don't want more automation. They want to stay in control but eliminate the blank-page problem" [SOURCE: Community synthesis
+The evidence overwhelmingly favors manual execution for all growth-critical activities. As one Hacker News commenter noted, "People don't want more automation. They want to stay in control but eliminate the blank-page problem" [SOURCE: Community synthesis]. Most people edit approximately 20% of AI-generated messages before sending, which is the optimal balance between efficiency and authenticity [SOURCE: Community synthesis].
 
 ### 2.2 Risk Classification Framework
 
@@ -143,7 +143,7 @@ Every tactic in this report carries an explicit risk label: SAFE, MODERATE, HIGH
 
 **HIGH:** The tactic violates LinkedIn's community norms or best practices and carries a meaningful risk of account restriction, reduced distribution, or reputational damage. While not always explicitly ToS-violating, these tactics signal spammy behavior to the algorithm and can trigger the Volume Tax (throttling to ~30 weekly requests) or soft flags. Examples include mass DM blasts (acceptance rates <30% trigger throttling), purchasing connections/followers (destroys acceptance rates), and maintaining 500+ pending invitations (triggers soft flags). HIGH tactics should be avoided by any account seeking sustainable growth.
 
-**ToS-violating:** The tactic explicitly violates LinkedIn's Terms of Service, User Agreement Section 8.2 (which prohibits automation tools, bots, and scraping), or applicable law (CFAA for unauthorized access). These tactics carry the highest risk: account bans (temporary or permanent), legal action (LinkedIn has actively sued scrapers under the CFAA), and irreversible reputational damage. Examples include browser extension automation, cloud-based automation, fake account creation, scraping, API abuse, engagement pods, and automated commenting. The evidence is clear: even "safe" automation tools face 23% ban rates within 90 days, and browser extensions are actively detected by LinkedIn's scanning systems [SOURCE: Community synthesis
+**ToS-violating:** The tactic explicitly violates LinkedIn's Terms of Service, User Agreement Section 8.2 (which prohibits automation tools, bots, and scraping), or applicable law (CFAA for unauthorized access). These tactics carry the highest risk: account bans (temporary or permanent), legal action (LinkedIn has actively sued scrapers under the CFAA), and irreversible reputational damage. Examples include browser extension automation, cloud-based automation, fake account creation, scraping, API abuse, engagement pods, and automated commenting. The evidence is clear: even "safe" automation tools face 23% ban rates within 90 days, and browser extensions are actively detected by LinkedIn's scanning systems [SOURCE: Community synthesis].
 
 #### Risk Determination Methodology
 
